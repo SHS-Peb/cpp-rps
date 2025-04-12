@@ -15,12 +15,10 @@ The player is prompted to choose either rock, paper, or scissors. The computer r
 
 ### Compilation
 
-```bash
 g++ -g rps.cpp -o rps.exe
 
 ### Run
 
 Open the integrated terminal and run:
 
-```bash
 ./rps.exe
